@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Hi I'm Karla 👋
+## About me in code
+```Js
+const karla={
+code: [Java, C#, SQL, PLSQL, JavaScript, Typescript, Html, Css,],
+tools:[Spring Boot, Hibernet, Net Framework, NodeJs, Angular, SQLManager, Oracle Sites, Oracle Web Center Content, Xamarin, Jenkins,  ]
+}
+```
+You can find me
+-[Linkedin](https://www.linkedin.com/in/karla-ramirez-landeros)
 <!--
 **karly4/karly4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
