@@ -3,7 +3,8 @@
 ```Js
 const karla={
 code: [Java, C#, SQL, PLSQL, JavaScript, Typescript, Html, Css,],
-tools:[Spring Boot, Hibernet, Net Framework, NodeJs, Angular, SQLManager, Oracle Sites, Oracle Web Center Content, Xamarin, Jenkins,  ]
+tools:[Spring Boot, Hibernet, Net Framework, NodeJs, Angular,
+ Oracle Sites, Oracle Web Center Content, Xamarin, Jenkins,  ]
 }
 ```
 ## You can find
